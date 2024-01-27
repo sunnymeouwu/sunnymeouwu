@@ -7,5 +7,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 ---
-<div>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnymeouwu&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnymeouwu&theme=zenburn)</div>
+(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnymeouwu&theme=zenburn)
+(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnymeouwu&theme=zenburn)
